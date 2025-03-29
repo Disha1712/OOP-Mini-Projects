@@ -92,6 +92,3 @@ This system includes multiple constructors, constraints, and utility methods to 
 ## Error Messages
 - Constraints violations print relevant error messages (e.g., "Invalid request! Borrow limit exceeded").
 
-## Additional Resources
-- [HackerRank Lab Link](https://www.hackerrank.com/ooaia-lab-2-1)
-
